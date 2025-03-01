@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="OkBmsCtyxUtv0G9vOhyC" name="Страница — 2">
-    <mxGraphModel dx="1489" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,20 +1324,20 @@
             <mxRectangle width="22" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-305" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.474;exitY=1.029;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-71" target="i-dMMfXqlk09ZkL_Bo82-2">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-305" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.474;exitY=1.029;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-71" target="i-dMMfXqlk09ZkL_Bo82-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1853" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-306" value="sends" style="curved=1;dashed=1;startArrow=ERoneToMany;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-31">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-306" value="жібереді" style="curved=1;dashed=1;startArrow=ERoneToMany;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="905" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-307" value="writes" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-56">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-307" value="жазады" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2208" y="642" />
@@ -1351,14 +1351,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-309" value="makes" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.65;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-94">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-309" value="жасайды" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.65;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1362" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-310" value="makes" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-119">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-310" value="жасайды" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2473" y="642" />
@@ -1372,14 +1372,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-312" value="reports" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-165">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-312" value="есептер" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-2" target="i-dMMfXqlk09ZkL_Bo82-165">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1853" y="642" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-313" value="contains" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0;entryY=0.44;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-2" target="i-dMMfXqlk09ZkL_Bo82-191">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-313" value="құрамында" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0;entryY=0.44;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-2" target="i-dMMfXqlk09ZkL_Bo82-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="250" />
@@ -1387,16 +1385,17 @@
             <mxPoint x="196.0000000000001" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-314" value="defines" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.07;exitY=1;entryX=0.412;entryY=-0.04;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QCRX9I76-EoQZHP0PRte-14">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-314" value="анықтайды" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.07;exitY=1;entryX=0.412;entryY=-0.04;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QCRX9I76-EoQZHP0PRte-14">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="91" y="320" />
             </Array>
             <mxPoint x="148" y="270" as="sourcePoint" />
             <mxPoint x="91" y="443" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-315" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.5;entryX=0.16;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-28" target="i-dMMfXqlk09ZkL_Bo82-191">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-315" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.5;entryX=0.16;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-28" target="i-dMMfXqlk09ZkL_Bo82-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="300" />
@@ -1404,7 +1403,7 @@
             <mxPoint x="960" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-316" value="located_at" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.494;exitY=0.9;entryX=1;entryY=0.34;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-49" target="i-dMMfXqlk09ZkL_Bo82-191">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-316" value="орналасқан жері" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.494;exitY=0.9;entryX=1;entryY=0.34;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-49" target="i-dMMfXqlk09ZkL_Bo82-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1380" y="370" />
@@ -1412,77 +1411,77 @@
             <mxPoint x="1359.9999999999998" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-317" value="contains" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1.045;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-62">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-317" value="құрамында" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1.045;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1359.9999999999998" y="95" as="sourcePoint" />
             <mxPoint x="1359.9999999999998" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-318" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.55;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-232">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-318" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.55;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-232">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="41" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-319" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.57;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-245">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-319" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.57;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="318" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-320" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.6;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-258">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-320" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.6;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-258">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-321" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.68;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-271">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-321" value="бар" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.68;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-271">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-322" value="related_to" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-31">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-322" value="байланысты" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1031" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-323" value="favorited_by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.73;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-81">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-323" value="сүйікті" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.73;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1262" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-324" value="involved_in" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.61;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-94">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-324" value="қатысады" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.61;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1503" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-325" value="promoted_as" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.58;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-284">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-325" value="ретінде жоғарылатылды" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.58;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-284">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1676" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-326" value="reported_as" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.55;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-165">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-326" value="ретінде хабарланды" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.55;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-191" target="i-dMMfXqlk09ZkL_Bo82-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2019" y="642" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-dMMfXqlk09ZkL_Bo82-327" value="used_in" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.493;exitY=1.136;entryX=0.61;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-23" target="i-dMMfXqlk09ZkL_Bo82-232">
+        <mxCell id="i-dMMfXqlk09ZkL_Bo82-327" value="пайдаланылады" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.493;exitY=1.136;entryX=0.61;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCRX9I76-EoQZHP0PRte-23" target="i-dMMfXqlk09ZkL_Bo82-232">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="155" y="642" />
