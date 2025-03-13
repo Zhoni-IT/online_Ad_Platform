@@ -11,7 +11,7 @@ FROM Listings l
 JOIN Users u ON l.user_id = u.user_id
 JOIN Categories c ON l.category_id = c.category_id
 JOIN Listing_Status s ON l.status_id = s.status_id
-WHERE s.status_name = 'Активный';
+WHERE s.status_name = 'Белсенді';
 
 
 
@@ -38,7 +38,7 @@ SELECT
 FROM Users u
 JOIN Reviews r ON u.user_id = r.reviewed_user_id
 GROUP BY u.user_id, u.name
-HAVING COUNT(r.review_id) > 5
+HAVING COUNT(r.review_id) = 1
 ORDER BY avg_rating DESC;
 
 
