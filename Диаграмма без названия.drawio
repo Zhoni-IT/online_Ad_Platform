@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram id="OkBmsCtyxUtv0G9vOhyC" name="Страница — 2">
-    <mxGraphModel dx="2345" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1795,11 +1795,8 @@
             <mxRectangle width="30" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hIN84pvpRcrB91gMAEEG-1" value="орналасқан жері" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-3" target="i-dMMfXqlk09ZkL_Bo82-196">
+        <mxCell id="hIN84pvpRcrB91gMAEEG-1" value="" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i-dMMfXqlk09ZkL_Bo82-3" target="i-dMMfXqlk09ZkL_Bo82-196">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1390" y="380" />
-            </Array>
             <mxPoint x="1369" y="288" as="sourcePoint" />
             <mxPoint x="1114" y="456" as="targetPoint" />
           </mxGeometry>
