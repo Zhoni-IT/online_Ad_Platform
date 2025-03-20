@@ -1983,17 +1983,14 @@
             <mxRectangle width="30" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YXDNueNZajrzVA4vGDVI-1" value="" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YXDNueNZajrzVA4vGDVI-1" value="" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lFL2nlgRsIXrSDVABfzW-2" target="MkdL3KynZg6XnRy_stoO-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2473" y="642" />
-            </Array>
             <mxPoint x="1932" y="503" as="sourcePoint" />
             <mxPoint x="2473" y="692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MkdL3KynZg6XnRy_stoO-1" value="PAYMENTS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="2394" y="692" width="157" height="157" as="geometry" />
+          <mxGeometry x="2240" y="440" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="MkdL3KynZg6XnRy_stoO-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="MkdL3KynZg6XnRy_stoO-1">
           <mxGeometry y="25" width="157" height="22" as="geometry" />
